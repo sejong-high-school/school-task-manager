@@ -1,0 +1,13 @@
+{
+  "name": "school-schedule",
+  "version": "1.0.0",
+  "description": "세종과학고 1학년 1반 시간표 API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "comcigan-parser": "^1.2.3",
+    "express": "^4.18.2"
+  }
+}
